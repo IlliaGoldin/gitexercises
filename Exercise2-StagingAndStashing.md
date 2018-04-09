@@ -27,7 +27,7 @@ Switched to branch 'exercise2'
 2. Make a change and try to stage it interactively (`git add -p`).
 3. Use `git reset` to undo the staging of your file.
 4. Stash your change with a unique stash message, then unstash and apply it back to the `exercise2` branch.
-Ok I'm making a change. Do you sense this you stupid git?
+Ok I'm making a change. Do you sense this you stupid git? And adding another one. Ball of yarn. 
 
 ## Solutions
 
